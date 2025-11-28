@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
+# nếu main.py import thêm thư viện nào (vd: requests, neynar-sdk, v.v.)
+# thì thêm từng dòng bên dưới:
+# requests
+# neynar
+
